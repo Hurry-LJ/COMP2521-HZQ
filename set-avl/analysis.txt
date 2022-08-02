@@ -1,0 +1,93 @@
+
+========================================================================
+                          Complexity Analysis
+========================================================================
+
+NOTE:
+- Your time complexities should be in big-O notation.
+- For operations that involve only one set, your time complexities should
+  be in terms of n, where n is the number of elements in the set.
+- For operations that involve two sets, your time complexities should be in
+  terms of n and m, where n and m are the number of elements in each of the
+  sets respectively.
+
+
+--------
+SetUnion
+--------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+---------------
+SetIntersection
+---------------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+-------------
+SetDifference
+-------------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+---------
+SetEquals
+---------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+---------
+SetSubset
+---------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+--------
+SetFloor
+--------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+----------
+SetCeiling
+----------
+
+Worst case complexity: 
+
+Explanation: 
+
+
+========================================================================
+               Design Documentation for Cursor Operations
+========================================================================
+
+If you completed the cursor operations, you must explain the design and
+implementation of your solution here.
+
+
+
+
+
+
+
+
+
+
